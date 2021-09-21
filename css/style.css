@@ -1,0 +1,17 @@
+/* Global Selcetors */
+/* TODO: might change have to see on mobile if scroll*/
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+  /* for mapbox */
+  #map {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
+  
+/* bold on price plans */
+.pricing-text {
+    font-weight: bold;
+}
